@@ -14,12 +14,13 @@ export default () =>
         Name:&nbsp;
         <input type="text" name="name" id="name" />
       </label>
-      &nbsp;
+      &nbsp;&nbsp;&nbsp;
       <label>
-        Email:&nbsp; 
-        <input type="email" name="email" id="email" />
+        Mobile #:&nbsp; 
+        <input type="mobile" name="mobile" id="mobile" />
       </label>
-      &nbsp;
+      <br/>
+      <br/>
       <button type="submit">I'm In!</button>
   </form>
     <hr></hr>
@@ -30,10 +31,10 @@ export default () =>
     <hr></hr>
     <h3>The Details</h3>
     <p>
+      <h4>Start Address</h4>  
+      <p><a href="https://goo.gl/maps/BVchVV3bCygJ8xb9A">The Little Car Park, Barton Marina, Barton Under Needwood, Burton On Trent</a></p>
       <h4>Time</h4>  
       <p>9am Sharp.</p>
 
-      <h4>Address</h4>  
-      <p><a href="https://goo.gl/maps/BVchVV3bCygJ8xb9A">The Little Car Park, Barton Marina, Barton Under Needwood, Burton On Trent</a></p>
     </p>
   </div>
