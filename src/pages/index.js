@@ -6,7 +6,7 @@ export default () =>
     <img src={SophieImg} alt="Sophie abd Jane on a Bike"></img>
     <h1>Sophie's Ride 2019</h1>
     <p>
-      The bi-annual pilgrimage to Rainbow's Hospice will be on the 21st September 2019.
+      The bi-annual pilgrimage to <a href="https://www.rainbows.co.uk">Rainbow's Hospice</a> will be on the 21st September 2019.
     </p>
     
     <hr></hr>
