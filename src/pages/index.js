@@ -32,7 +32,7 @@ export default () =>
     <h3>The Details</h3>
     <p>
       <h4>Start Address</h4>  
-      <p><a href="https://goo.gl/maps/BVchVV3bCygJ8xb9A">The Little Car Park, Barton Marina, Barton Under Needwood, Burton On Trent</a></p>
+      <p><a href="https://goo.gl/maps/BVchVV3bCygJ8xb9A">The Little Car Park, Barton Marina, Barton Under Needwood, Burton On Trent, Staffs, DE13 8DZ</a></p>
       <h4>Time</h4>  
       <p>9am Sharp.</p>
 
