@@ -8,11 +8,24 @@ export default () =>
     <p>
       The bi-annual pilgrimage to <a href="https://www.rainbows.co.uk">Rainbow's Hospice</a> will be on the 21st September 2019.
     </p>
-    
+    <p>Please let us know if you're planning to attend.</p>
+    <form method="post" etlify-honeypot="bot-field" data-netlify="true">
+      <label>
+        Name:&nbsp;
+        <input type="text" name="name" id="name" />
+      </label>
+      &nbsp;
+      <label>
+        Email:&nbsp; 
+        <input type="email" name="email" id="email" />
+      </label>
+      &nbsp;
+      <button type="submit">I'm In!</button>
+  </form>
     <hr></hr>
     <h3>Donations</h3>
     <p>
-      Please donate to the just giving page <a href="https://www.justgiving.com/fundraising/jane-rushton6">here</a>.
+      Please give generously via JustGiving <a href="https://www.justgiving.com/fundraising/jane-rushton6">here</a>.
     </p>
     <hr></hr>
     <h3>The Details</h3>
