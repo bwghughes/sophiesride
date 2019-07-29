@@ -8,11 +8,11 @@ export default () =>
     <p>
       The bi-annual pilgrimage to Rainbow's Hospice will be on the 21st September 2019.
     </p>
-
+    
     <hr></hr>
     <h3>Donations</h3>
     <p>
-      Please dontate to the just giving page <a href="https://www.justgiving.com/fundraising/jane-rushton6">here</a>.
+      Please donate to the just giving page <a href="https://www.justgiving.com/fundraising/jane-rushton6">here</a>.
     </p>
     <hr></hr>
     <h3>The Details</h3>
