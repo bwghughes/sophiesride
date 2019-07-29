@@ -3,13 +3,13 @@ import SophieImg from "../data/images/sophie.png"
 
 export default () => 
 <div style={{ margin: `3rem auto`, maxWidth: 600, textAlign: 'center' }}>
-    <img src={SophieImg} alt="Sophie abd Jane on a Bike"></img>
+    <img src={SophieImg} alt="Sophie and Jane on a Bike"></img>
     <h1>Sophie's Ride 2019</h1>
     <p>
       The bi-annual pilgrimage to <a href="https://www.rainbows.co.uk">Rainbow's Hospice</a> will be on the 21st September 2019.
     </p>
     <p>Please let us know if you're planning to attend.</p>
-    <form action="#" name="rider" method="post" data-netlify="true">
+    <form action="/thanks" name="rider" method="post" data-netlify="true">
       <label>
         Name:&nbsp;
         <input type="text" name="name" id="name" />
