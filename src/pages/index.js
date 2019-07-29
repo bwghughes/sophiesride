@@ -10,6 +10,9 @@ export default () =>
     </p>
     <p>Please let us know if you're planning to attend.</p>
     <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+      <p class="hidden">
+        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+      </p>
       <label>
         Name:&nbsp;
         <input type="text" name="name" id="name" />
