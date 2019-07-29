@@ -9,10 +9,7 @@ export default () =>
       The bi-annual pilgrimage to <a href="https://www.rainbows.co.uk">Rainbow's Hospice</a> will be on the 21st September 2019.
     </p>
     <p>Please let us know if you're planning to attend.</p>
-    <form method="post" netlify-honeypot="bot-field" data-netlify="true">
-      <p class="hidden">
-        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-      </p>
+    <form name="rider" method="post" data-netlify="true">
       <label>
         Name:&nbsp;
         <input type="text" name="name" id="name" />
