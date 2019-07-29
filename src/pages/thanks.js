@@ -7,4 +7,6 @@ export default () =>
     <h1>Sophie's Ride 2019</h1>
     <h3>Thanks !!!</h3> 
     <p>Look forward to seeing you !!</p>
+    <hr></hr>
+    Click <a href="/">here</a> to go back.
 </div>
