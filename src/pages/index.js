@@ -3,7 +3,7 @@ import SophieImg from "../data/images/sophie.png"
 
 export default () => 
 <div style={{ margin: `3rem auto`, maxWidth: 600, textAlign: 'center' }}>
-    <img src={SophieImg} alt="Image of Sophie"></img>
+    <img src={SophieImg} alt="Sophie abd Jane on a Bike"></img>
     <h1>Sophie's Ride 2019</h1>
     <p>
       The bi-annual pilgrimage to Rainbow's Hospice will be on the 21st September 2019.
