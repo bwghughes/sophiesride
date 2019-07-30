@@ -29,7 +29,7 @@ export default props => (
               <input type="number" name="number" id="number" class="form-control"/>
             </label>
           </div>
-          <button type="submit" class="btn btn-success">I'm In!</button>
+          <button type="submit" class="btn btn-success btn-lg">I'm In!</button>
         </form>
       </div>
     </div>
