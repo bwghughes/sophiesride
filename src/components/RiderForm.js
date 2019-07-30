@@ -11,6 +11,7 @@ export default props => (
       <div class="col-sm-12">
         <div class="form-group">
           <form action="/thanks/" name="rider" method="post" data-netlify="true">
+          <input type="hidden" name="form-name" value="rider" />
             <label>
               Name:&nbsp;
               <input type="text" name="name" id="name" autoFocus />
