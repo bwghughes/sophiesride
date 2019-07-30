@@ -1,12 +1,17 @@
 import React from "react"
-import SophieImg from "../data/images/sophie.png"
+import Banner from '../components/Banner'
 
 export default () => 
-<div style={{ margin: `3rem auto`, maxWidth: 600, textAlign: 'center' }}>
-    <img src={SophieImg} alt="Sophie and Jane on a Bike"></img>
-    <h1>Sophie's Ride 2019</h1>
-    <h3>Thanks !!!</h3> 
+<div class="container text-center">
+    <Banner></Banner>
+    <br></br>
+    <br></br>
+    <h3>Thanks !!!</h3>
+    <br></br>
+    <br></br>
     <p>Look forward to seeing you !!</p>
+    <br></br>
+    <br></br>
     <hr></hr>
     Click <a href="/">here</a> to go back.
 </div>
