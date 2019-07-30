@@ -17,6 +17,7 @@ export default ({ data }) => (
     `}
     render={data => (
       <div>
+        <br></br>
         <div class="row">
           <div class="col-sm-12">
             <Img fixed={data.logo.childImageSharp.fixed} />

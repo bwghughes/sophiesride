@@ -10,7 +10,7 @@ export default props => (
     <div class="row">
       <div class="col-sm-12">
         <div class="form-group">
-          <form action="/thanks" name="rider" method="post" data-netlify="true">
+          <form action="/thanks/" name="rider" method="post" data-netlify="true">
             <label>
               Name:&nbsp;
               <input type="text" name="name" id="name" autoFocus />

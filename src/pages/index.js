@@ -6,7 +6,6 @@ import Details from "../components/Details";
 
 export default ({ data }) => (
 <div class="container text-center">
-    <br></br>
     <Banner></Banner>
     <br></br>
     <hr></hr>
